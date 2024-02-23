@@ -1,4 +1,7 @@
 # Python Code Cleanup
+<a target="_blank" href="https://colab.research.google.com/github/PrincetonUniversity/python-code-cleanup/blob/main/python_cleanup.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## About
 
@@ -13,6 +16,9 @@ Attendees should have some familiarity with Python.
 ## Colab Not Working?
 
 You can run the notebook for this workshop using only a web browser colab. 
+<a target="_blank" href="https://colab.research.google.com/github/PrincetonUniversity/python-code-cleanup/blob/main/python_cleanup.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 If you prefer to run locally, you can copy the notebook and run in jupyter lab.
 No additional dependencies are required.
